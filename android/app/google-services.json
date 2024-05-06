@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503031967601",
+    "project_id": "pushnotification-82c49",
+    "storage_bucket": "pushnotification-82c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503031967601:android:b7e6dec9ccb3820bd290d0",
+        "android_client_info": {
+          "package_name": "com.madhuri.push_notification_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0qDWm2Lx-LaZpzdbC6nC99e9qKiQ8wZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
